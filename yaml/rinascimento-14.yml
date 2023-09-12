@@ -1,0 +1,112 @@
+---
+object: card
+id: 0c1f31c9-64d0-4a0b-9804-c4a3e6398639
+oracle_id: 2b7c9fe0-5a23-4172-b31f-b0d85cd465f6
+multiverse_ids: []
+tcgplayer_id: 182438
+cardmarket_id: 19411
+name: War Elephant
+printed_name: Elefante da Guerra
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/0c1f31c9-64d0-4a0b-9804-c4a3e6398639
+scryfall_uri: https://scryfall.com/card/rin/14/it/elefante-da-guerra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.jpg?1562486466
+  normal: https://cards.scryfall.io/normal/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.jpg?1562486466
+  large: https://cards.scryfall.io/large/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.jpg?1562486466
+  png: https://cards.scryfall.io/png/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.png?1562486466
+  art_crop: https://cards.scryfall.io/art_crop/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.jpg?1562486466
+  border_crop: https://cards.scryfall.io/border_crop/front/0/c/0c1f31c9-64d0-4a0b-9804-c4a3e6398639.jpg?1562486466
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Elephant
+oracle_text: Trample; banding (Any creatures with banding, and up to one without,
+  can attack in a band. Bands are blocked as a group. If any creatures with banding
+  you control are blocking or being blocked by a creature, you divide that creature's
+  combat damage, not its controller, among any of the creatures it's being blocked
+  by or is blocking.)
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Banding
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0c1f31c9-64d0-4a0b-9804-c4a3e6398639/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b7c9fe0-5a23-4172-b31f-b0d85cd465f6&unique=prints
+collector_number: '14'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kristen Bishop
+artist_ids:
+- c2daa858-2047-4d0c-b884-f51112eeca7f
+illustration_id: a020cd62-1412-467e-b158-7e0f86605a1e
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19346
+prices:
+  usd: '1.30'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=War+Elephant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=War+Elephant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=War+Elephant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182438?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=War+Elephant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=War+Elephant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

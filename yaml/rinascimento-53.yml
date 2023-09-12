@@ -1,0 +1,107 @@
+---
+object: card
+id: feba4ad9-3d6d-4676-862a-c2cc9ad35350
+oracle_id: a57d4a9d-4ac5-4a68-adb9-a73754034d7c
+multiverse_ids: []
+tcgplayer_id: 182393
+cardmarket_id: 19375
+name: Hasran Ogress
+printed_name: Orchessa di Hasran
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/feba4ad9-3d6d-4676-862a-c2cc9ad35350
+scryfall_uri: https://scryfall.com/card/rin/53/it/orchessa-di-hasran?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.jpg?1562487435
+  normal: https://cards.scryfall.io/normal/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.jpg?1562487435
+  large: https://cards.scryfall.io/large/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.jpg?1562487435
+  png: https://cards.scryfall.io/png/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.png?1562487435
+  art_crop: https://cards.scryfall.io/art_crop/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.jpg?1562487435
+  border_crop: https://cards.scryfall.io/border_crop/front/f/e/feba4ad9-3d6d-4676-862a-c2cc9ad35350.jpg?1562487435
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Creature — Ogre
+oracle_text: Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay
+  {2}.
+power: '3'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/feba4ad9-3d6d-4676-862a-c2cc9ad35350/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa57d4a9d-4ac5-4a68-adb9-a73754034d7c&unique=prints
+collector_number: '53'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: 28f7f4ce-5099-4d09-8568-b1220625cb6a
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20295
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hasran+Ogress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hasran+Ogress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hasran+Ogress
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182393?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hasran+Ogress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hasran+Ogress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

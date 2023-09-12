@@ -1,0 +1,104 @@
+---
+object: card
+id: 565d6e4f-57a2-465a-a9ce-9a55c2b118ad
+oracle_id: a1ab033f-9605-4ca2-a98b-c0b2e1599609
+multiverse_ids: []
+tcgplayer_id: 182374
+cardmarket_id: 19356
+name: Bronze Tablet
+printed_name: Tavoletta di Bronzo
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/565d6e4f-57a2-465a-a9ce-9a55c2b118ad
+scryfall_uri: https://scryfall.com/card/rin/106/it/tavoletta-di-bronzo?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.jpg?1562486495
+  normal: https://cards.scryfall.io/normal/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.jpg?1562486495
+  large: https://cards.scryfall.io/large/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.jpg?1562486495
+  png: https://cards.scryfall.io/png/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.png?1562486495
+  art_crop: https://cards.scryfall.io/art_crop/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.jpg?1562486495
+  border_crop: https://cards.scryfall.io/border_crop/front/5/6/565d6e4f-57a2-465a-a9ce-9a55c2b118ad.jpg?1562486495
+mana_cost: "{6}"
+cmc: 6.0
+type_line: Artifact
+oracle_text: |-
+  Remove Bronze Tablet from your deck before playing if you're not playing for ante.
+  Bronze Tablet enters the battlefield tapped.
+  {4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If they do, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: banned
+  premodern: banned
+  predh: banned
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/565d6e4f-57a2-465a-a9ce-9a55c2b118ad/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1ab033f-9605-4ca2-a98b-c0b2e1599609&unique=prints
+collector_number: '106'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Wänerstrand
+artist_ids:
+- c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+illustration_id: e7f6f56e-eac0-4ed1-a14c-d1d7f3e87189
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '1.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bronze+Tablet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bronze+Tablet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bronze+Tablet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182374?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bronze+Tablet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bronze+Tablet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

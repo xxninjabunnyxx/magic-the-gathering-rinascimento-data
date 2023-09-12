@@ -1,0 +1,108 @@
+---
+object: card
+id: 69918c6d-519d-49d5-8abb-9fa397db8e0a
+oracle_id: fb8f80cc-6214-4ab9-a9a9-1873ab9feb0c
+multiverse_ids: []
+tcgplayer_id: 182439
+cardmarket_id: 19412
+name: Xenic Poltergeist
+printed_name: Poltergeist di Xenic
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/69918c6d-519d-49d5-8abb-9fa397db8e0a
+scryfall_uri: https://scryfall.com/card/rin/60/it/poltergeist-di-xenic?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.jpg?1562486940
+  normal: https://cards.scryfall.io/normal/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.jpg?1562486940
+  large: https://cards.scryfall.io/large/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.jpg?1562486940
+  png: https://cards.scryfall.io/png/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.png?1562486940
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.jpg?1562486940
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/69918c6d-519d-49d5-8abb-9fa397db8e0a.jpg?1562486940
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Spirit
+oracle_text: "{T}: Until your next upkeep, target noncreature artifact becomes an
+  artifact creature with power and toughness each equal to its mana value."
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/69918c6d-519d-49d5-8abb-9fa397db8e0a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb8f80cc-6214-4ab9-a9a9-1873ab9feb0c&unique=prints
+collector_number: '60'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: f3a466ab-6a4e-4b42-a670-5fa20eca991e
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14659
+penny_rank: 13522
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Xenic+Poltergeist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Xenic+Poltergeist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Xenic+Poltergeist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182439?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Xenic+Poltergeist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Xenic+Poltergeist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

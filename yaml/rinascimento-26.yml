@@ -1,0 +1,107 @@
+---
+object: card
+id: a73933f7-6b81-471c-824e-657a86031393
+oracle_id: 75457fe5-4ab6-42c4-98e5-8ed6e8bf122c
+multiverse_ids: []
+tcgplayer_id: 182388
+cardmarket_id: 19370
+name: Fishliver Oil
+printed_name: Unguento di Fegato di Pesce
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/a73933f7-6b81-471c-824e-657a86031393
+scryfall_uri: https://scryfall.com/card/rin/26/it/unguento-di-fegato-di-pesce?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a73933f7-6b81-471c-824e-657a86031393.jpg?1562486965
+  normal: https://cards.scryfall.io/normal/front/a/7/a73933f7-6b81-471c-824e-657a86031393.jpg?1562486965
+  large: https://cards.scryfall.io/large/front/a/7/a73933f7-6b81-471c-824e-657a86031393.jpg?1562486965
+  png: https://cards.scryfall.io/png/front/a/7/a73933f7-6b81-471c-824e-657a86031393.png?1562486965
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a73933f7-6b81-471c-824e-657a86031393.jpg?1562486965
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a73933f7-6b81-471c-824e-657a86031393.jpg?1562486965
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+  Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a73933f7-6b81-471c-824e-657a86031393/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75457fe5-4ab6-42c4-98e5-8ed6e8bf122c&unique=prints
+collector_number: '26'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: fae11bb7-dec3-49e2-a952-1e927aceaa88
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18996
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fishliver+Oil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fishliver+Oil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fishliver+Oil
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182388?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fishliver+Oil&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fishliver+Oil&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

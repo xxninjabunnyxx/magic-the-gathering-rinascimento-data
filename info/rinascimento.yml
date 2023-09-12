@@ -1,0 +1,15 @@
+---
+object: set
+id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+code: rin
+name: Rinascimento
+uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+scryfall_uri: https://scryfall.com/sets/rin
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arin&unique=prints
+released_at: '1995-08-01'
+set_type: masters
+card_count: 69
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/rin.svg?1694404800

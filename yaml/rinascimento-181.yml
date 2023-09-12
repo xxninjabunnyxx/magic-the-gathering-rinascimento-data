@@ -1,0 +1,124 @@
+---
+object: card
+id: e3d0ec69-69ba-4185-b268-5f6890ada0d6
+oracle_id: e11966cd-2ee3-4df4-b099-abf42dcdf0db
+multiverse_ids: []
+tcgplayer_id: 182430
+cardmarket_id: 19402
+name: Urza's Power Plant
+printed_name: Centrale Energetica di Urza
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/e3d0ec69-69ba-4185-b268-5f6890ada0d6
+scryfall_uri: https://scryfall.com/card/rin/181/it/centrale-energetica-di-urza?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.jpg?1562487419
+  normal: https://cards.scryfall.io/normal/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.jpg?1562487419
+  large: https://cards.scryfall.io/large/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.jpg?1562487419
+  png: https://cards.scryfall.io/png/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.png?1562487419
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.jpg?1562487419
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e3d0ec69-69ba-4185-b268-5f6890ada0d6.jpg?1562487419
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Urza's Power-Plant
+oracle_text: "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add
+  {C}{C} instead."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: dc2c039e-fbf9-4e45-874d-b0ab0d923e52
+  component: combo_piece
+  name: Urza's Tower
+  type_line: Land — Urza's Tower
+  uri: https://api.scryfall.com/cards/dc2c039e-fbf9-4e45-874d-b0ab0d923e52
+- object: related_card
+  id: e17d4495-efce-40e3-aa94-27d45b4ce636
+  component: combo_piece
+  name: Urza's Mine
+  type_line: Land — Urza's Mine
+  uri: https://api.scryfall.com/cards/e17d4495-efce-40e3-aa94-27d45b4ce636
+- object: related_card
+  id: 4a86d6b5-946e-41e4-9c78-edec3f5bb981
+  component: combo_piece
+  name: Urza's Power Plant
+  type_line: Land — Urza's Power-Plant
+  uri: https://api.scryfall.com/cards/4a86d6b5-946e-41e4-9c78-edec3f5bb981
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e3d0ec69-69ba-4185-b268-5f6890ada0d6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae11966cd-2ee3-4df4-b099-abf42dcdf0db&unique=prints
+collector_number: '181'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 5ac45cfa-392a-475b-92dd-b7588bac5886
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1045
+prices:
+  usd: '2.97'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.74'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urza%27s+Power+Plant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urza%27s+Power+Plant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urza%27s+Power+Plant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182430?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Power+Plant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Urza%27s+Power+Plant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

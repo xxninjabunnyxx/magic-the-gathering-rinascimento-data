@@ -1,0 +1,104 @@
+---
+object: card
+id: 99ea166b-01f3-44f2-8e93-da829ea8b5ed
+oracle_id: 4d18bcba-a346-445e-a182-6cc30b7e066d
+multiverse_ids: []
+tcgplayer_id: 182369
+cardmarket_id: 19351
+name: Ashnod's Altar
+printed_name: Altare di Ashnod
+lang: it
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/99ea166b-01f3-44f2-8e93-da829ea8b5ed
+scryfall_uri: https://scryfall.com/card/rin/101/it/altare-di-ashnod?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.jpg?1562486959
+  normal: https://cards.scryfall.io/normal/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.jpg?1562486959
+  large: https://cards.scryfall.io/large/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.jpg?1562486959
+  png: https://cards.scryfall.io/png/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.png?1562486959
+  art_crop: https://cards.scryfall.io/art_crop/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.jpg?1562486959
+  border_crop: https://cards.scryfall.io/border_crop/front/9/9/99ea166b-01f3-44f2-8e93-da829ea8b5ed.jpg?1562486959
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: 'Sacrifice a creature: Add {C}{C}.'
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set: rin
+set_name: Rinascimento
+set_type: masters
+set_uri: https://api.scryfall.com/sets/4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/99ea166b-01f3-44f2-8e93-da829ea8b5ed/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d18bcba-a346-445e-a182-6cc30b7e066d&unique=prints
+collector_number: '101'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: 18ad1104-51e7-41a8-ab39-3a0cde3b170f
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 97
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '9.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ashnod%27s+Altar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ashnod%27s+Altar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ashnod%27s+Altar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182369?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ashnod%27s+Altar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ashnod%27s+Altar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
